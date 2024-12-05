@@ -1,0 +1,82 @@
+CRITICAL - 2024-10-04 14:27:41 --> ErrorException: Undefined variable $id
+[Method: GET, Route: borrar]
+in APPPATH\Views\sweetalert-delete.php on line 18.
+ 1 APPPATH\Views\sweetalert-delete.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\codeigniter4-framework-2849e7f\\app\\Views\\sweetalert-delete.php', 18)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\codeigniter4-framework-2849e7f\\app\\Views\\sweetalert-delete.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('sweetalert-delete', [], true)
+ 5 APPPATH\Controllers\MessageController.php(33): view('sweetalert-delete')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->showDeleteAlertMessages()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 14:28:20 --> ErrorException: Undefined variable $id
+[Method: GET, Route: borrar]
+in APPPATH\Views\sweetalert-delete.php on line 18.
+ 1 APPPATH\Views\sweetalert-delete.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\codeigniter4-framework-2849e7f\\app\\Views\\sweetalert-delete.php', 18)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\codeigniter4-framework-2849e7f\\app\\Views\\sweetalert-delete.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('sweetalert-delete', [], true)
+ 5 APPPATH\Controllers\MessageController.php(33): view('sweetalert-delete')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->showDeleteAlertMessages()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 14:28:26 --> ErrorException: Undefined variable $id
+[Method: GET, Route: borrar]
+in APPPATH\Views\sweetalert-delete.php on line 18.
+ 1 APPPATH\Views\sweetalert-delete.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\codeigniter4-framework-2849e7f\\app\\Views\\sweetalert-delete.php', 18)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\codeigniter4-framework-2849e7f\\app\\Views\\sweetalert-delete.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('sweetalert-delete', [], true)
+ 5 APPPATH\Controllers\MessageController.php(33): view('sweetalert-delete')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->showDeleteAlertMessages()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 14:28:35 --> ErrorException: Undefined variable $id
+[Method: GET, Route: borrar]
+in APPPATH\Views\sweetalert-delete.php on line 18.
+ 1 APPPATH\Views\sweetalert-delete.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\codeigniter4-framework-2849e7f\\app\\Views\\sweetalert-delete.php', 18)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\codeigniter4-framework-2849e7f\\app\\Views\\sweetalert-delete.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('sweetalert-delete', [], true)
+ 5 APPPATH\Controllers\MessageController.php(33): view('sweetalert-delete')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->showDeleteAlertMessages()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 14:36:14 --> ErrorException: Undefined variable $tabla
+[Method: GET, Route: borrar]
+in APPPATH\Views\sweetalert-delete.php on line 7.
+ 1 APPPATH\Views\sweetalert-delete.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $tabla', 'C:\\xampp\\htdocs\\codeigniter4-framework-2849e7f\\app\\Views\\sweetalert-delete.php', 7)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\codeigniter4-framework-2849e7f\\app\\Views\\sweetalert-delete.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('sweetalert-delete', [], true)
+ 5 APPPATH\Controllers\MessageController.php(34): view('sweetalert-delete')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->showDeleteAlertMessages()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 15:22:22 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "usuarios_new.php"
+[Method: GET, Route: users/nuevo]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuarios_new.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('usuarios_new', [], true)
+ 3 APPPATH\Controllers\Users.php(20): view('usuarios_new')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Users->nuevo()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

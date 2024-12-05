@@ -1,0 +1,6 @@
+/.idea/
+/vendor/
+/coverage/
+/bin/
+composer.lock
+/documentation/
